@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.lit{
+  background-color: bisque;
+}
+.dark{
+  background-color: rgb(122, 71, 8);
+}
